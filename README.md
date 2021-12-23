@@ -1,4 +1,4 @@
-### Welcome to my GitHub, Partner! 👋<b>
+# Welcome to my GitHub, Partner! 👋<b>
 
 <!--
 **mauricekoenig/mauricekoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
