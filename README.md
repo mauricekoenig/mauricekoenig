@@ -1,9 +1,10 @@
-# C# Software Developer👋<b>
+# (Mostly a) C# Software Developer👋<b>
 
 - Unity
 - WPF / MAUI / XAML
-- Networking (TCP)
-- 
+- PHP
+- JavaScript
+- MySQL
 <!--
 **mauricekoenig/mauricekoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
