@@ -1,11 +1,6 @@
-# (Mostly a) C# Software Developer👋<b>
+# Hi, I'm a Software Developer👋<b>
 
-- Unity
-- WPF / MAUI / XAML
-- PHP (Plain, Symfony)
-- JavaScript / TypeScript (Node.js)
-- MySQL (PHPmyadmin)
-- 
+My language of choice is (and always has been) C#. I like to develop all sort of stuff, but over the last couple of years my priorities changed a bit and I mostly see myself developing video games using the Unity Engine.
 <!--
 **mauricekoenig/mauricekoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
