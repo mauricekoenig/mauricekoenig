@@ -2,9 +2,10 @@
 
 - Unity
 - WPF / MAUI / XAML
-- PHP
-- JavaScript
-- MySQL
+- PHP (Plain, Symfony)
+- JavaScript / TypeScript (Node.js)
+- MySQL (PHPmyadmin)
+- 
 <!--
 **mauricekoenig/mauricekoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
