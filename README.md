@@ -1,6 +1,6 @@
 # Hi, I'm a Software Developer👋<b>
 
-My language of choice is (and always has been) C#. I like to develop all sort of stuff, but over the last couple of years my priorities changed a bit and I mostly see myself developing video games using the Unity Engine.
+My language of choice is (and always has been) C#. I like to develop all sort of stuff, but nowadays I highly prioritize developing video games using the Unity Engine. My skill set is wide-ranging and includes several different technologies. Well, and on a good day I also know how to apply them properly, lol.
 <!--
 **mauricekoenig/mauricekoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
