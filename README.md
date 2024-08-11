@@ -1,9 +1,5 @@
 # Hi, I'm a Software Developer from Germany👋<b>
 
-My language of choice is (and always has been) C#. I like to develop all sort of stuff, but nowadays I highly prioritize developing video games using the Unity Engine. My skill set is wide-ranging and includes several different technologies. Well, and on a good day I also know how to apply them properly, lol.
-
-Currently I'm working on digital TCG, which is quite a difficult task to complete. It has been one of my main goals over the last years and it is my number one priority right now.
-
 
 <!--
 **mauricekoenig/mauricekoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
