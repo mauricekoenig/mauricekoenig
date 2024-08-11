@@ -1,5 +1,9 @@
 # C# Software Developer👋<b>
 
+- Unity
+- WPF / MAUI / XAML
+- Networking (TCP)
+- 
 <!--
 **mauricekoenig/mauricekoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
