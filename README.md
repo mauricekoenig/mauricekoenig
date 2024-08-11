@@ -5,14 +5,20 @@ My language of choice is (and always has been) C#. I like to develop all sort of
 Currently I'm working on digital TCG, which is quite a difficult task to complete. It has been one of my main goals over the last years and it is my number one priority right now.
 Here's a list of all the technologies I'm familiar with:
 
-- .NET, C#
+# IT
+- .NET, C#, XAML
+- C++
 - JavaScript, TypeScript, Node.js
 - HTML, CSS
 - Plain PHP, Symfony
 - MySQL, PHPmyadmin
-- C++
 
-- 
+# MUSIC / MIXING / MASTERING
+- Studio One
+- Adobe Audition
+- Cubase
+- FL Studio
+
 <!--
 **mauricekoenig/mauricekoenig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
