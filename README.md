@@ -1,4 +1,5 @@
-# Ayo! I'm a software developer from Germany, working on collectible card game stuff.<b>
+# Ayo!<b>
+ I'm a software developer from Germany, working on collectible card game stuff.
 
 
 <!--
