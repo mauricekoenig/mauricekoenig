@@ -1,4 +1,4 @@
-# Hi, I'm a C# Software Developer from Germany👋<b>
+# Ayo! I'm a software developer from Germany, working on collectible card game stuff.<b>
 
 
 <!--
