@@ -1,5 +1,5 @@
 # Ayo!<b>
- I'm a software developer from Germany, working on collectible card game stuff.
+I'm a software developer from Germany, working on collectible card game projects. For now, I'm mostly interested in C#, as it was my entry point into the world of programming, and I still love the language to this day.
 
 
 <!--
